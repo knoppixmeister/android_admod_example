@@ -1,2 +1,1 @@
-# android_admod_example
-Adroid app AdMob sample
+# Adroid app AdMob sample
